@@ -44,8 +44,6 @@ At each step, I referred to online resources and AI tools whenever a problem aro
 
 This quiz app was quite a learning curve. I had to improve on my skills of HTML, CSS, and JavaScript, which, in the long run, would give me more knowledge on web development. It's one project that I can be proud of and, with time, improve on and develop further.
 
-I hope this detailed description captures the essence of your journey in building your Quiz App project. If you wish to add or modify something, please feel free to inform me.
-
 RESULT:
 
 ![Image](https://github.com/user-attachments/assets/31f0659a-62c9-40c9-973e-a1534b89f313)
